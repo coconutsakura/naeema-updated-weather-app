@@ -10,6 +10,9 @@
 .city {
   display: inline;
 }
+a {
+  margin: 10px 50px 20px;
+}
 
 h2 {
   text-align: center;
