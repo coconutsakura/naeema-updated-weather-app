@@ -10,12 +10,12 @@
 .city {
   display: inline;
 }
-.fahrenheit-link {
-  color: blueviolet;
-}
+
 a {
   margin: 10px 50px 20px;
   margin-top: 10px;
+  color: black;
+  text-align: center;
 }
 
 h2 {
